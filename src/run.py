@@ -26,14 +26,7 @@ else:
     
     submited = st.form_submit_button("Signup")
     if submited:
-        pass
-    
-    
-    
-        
-
-
-
+        pass   
 banner = image.open("/home/emadleo/new-project/git-practice/pytopia-dashboard/src/1.png")
 st.image(banner, caption="pytopia banner")
 
